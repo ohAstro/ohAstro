@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ohAstro
-- 👀 I’m interested in Data Analytics, Videos Games, and Basketbal
+- 👀 I’m interested in Data Analytics, Videos Games, Basketball, data, and more data
 - 🌱 I’m currently learning Excel
 
 <!---
